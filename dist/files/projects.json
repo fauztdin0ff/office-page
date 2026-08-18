@@ -8,8 +8,8 @@
       "title": "БЦ Савеловская",
       "address": "Москва, Бумажный проезд, 19",
       "images": [
-         "img/pr-1.webp",
-         "img/pr-2.webp",
+         "img/gallery/1.webp",
+         "img/gallery/2.webp",
          "img/pr-3.webp"
       ]
    },
@@ -22,8 +22,8 @@
       "title": "БЦ Towers",
       "address": "Москва, 1-й Красногвардейский проезд, 21",
       "images": [
-         "img/pr-1.webp",
-         "img/pr-2.webp",
+         "img/gallery/1.webp",
+         "img/gallery/2.webp",
          "img/pr-3.webp"
       ]
    },
@@ -36,8 +36,8 @@
       "title": "БЦ Ленинский",
       "address": "Москва, Ленинский проспект, 38",
       "images": [
-         "img/pr-1.webp",
-         "img/pr-2.webp",
+         "img/gallery/1.webp",
+         "img/gallery/2.webp",
          "img/pr-3.webp"
       ]
    },
@@ -50,8 +50,8 @@
       "title": "БЦ Ходынка 1",
       "address": "Москва, Ходынский бульвар, 20А",
       "images": [
-         "img/pr-1.webp",
-         "img/pr-2.webp",
+         "img/gallery/1.webp",
+         "img/gallery/2.webp",
          "img/pr-3.webp"
       ]
    },
@@ -64,8 +64,8 @@
       "title": "БЦ Дмитровская",
       "address": "Москва, Дмитровский проезд, 1",
       "images": [
-         "img/pr-1.webp",
-         "img/pr-2.webp",
+         "img/gallery/1.webp",
+         "img/gallery/2.webp",
          "img/pr-3.webp"
       ]
    },
@@ -78,8 +78,8 @@
       "title": "БЦ Курская",
       "address": "Москва, Нижний Сусальный переулок, 5",
       "images": [
-         "img/pr-1.webp",
-         "img/pr-2.webp",
+         "img/gallery/1.webp",
+         "img/gallery/2.webp",
          "img/pr-3.webp"
       ]
    }

@@ -312,7 +312,6 @@ function initHeroSlider() {
       slidesPerView: 1,
       loop: true,
       speed: 1400,
-      allowTouchMove: false,
 
       autoplay: {
          delay: 5000,
