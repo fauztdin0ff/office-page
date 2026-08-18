@@ -81,11 +81,7 @@ function burgerMenu() {
       menuBody.addEventListener("click", (e) => {
          const link = e.target.closest("a");
          if (link) {
-            e.preventDefault();
             closeMenu();
-            setTimeout(() => {
-               window.location.href = link.href;
-            }, animationDuration);
          }
       });
 

@@ -114,8 +114,8 @@ async function initMap() {
          {
             iconLayout: 'default#image',
             iconImageHref: 'img/map-location.png',
-            iconImageSize: [40, 40],
-            iconImageOffset: [-20, -20]
+            iconImageSize: [50, 60],
+            iconImageOffset: [-25, -30]
          }
       );
 
