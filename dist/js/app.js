@@ -276,14 +276,15 @@ _modules_functions_js__WEBPACK_IMPORTED_MODULE_0__.phoneMask();
 Observer Animation
 ============================================================================*/
 const observer = new IntersectionObserver((entries) => {
-   entries.forEach((entry) => {
+   entries.forEach(entry => {
       if (entry.isIntersecting) {
          entry.target.classList.add('is-visible');
          observer.unobserve(entry.target);
       }
    });
 }, {
-   threshold: 0.2
+   threshold: 0,
+   rootMargin: "0px 0px -20% 0px"
 });
 
 document.querySelectorAll('.fade').forEach((el) => {
